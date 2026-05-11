@@ -7,9 +7,14 @@
 <br />
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=F59E0B&center=true&width=600&lines=%F0%9F%9A%80+Building+cloud+infrastructure+solutions;%F0%9F%92%A1+DevOps+%7C+Kubernetes+%7C+Automation;%F0%9F%93%8A+Diving+into+Kubernetes+and+LLMs;%E2%98%95+Fuelled+by+chai+and+clean+code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=2000&color=F59E0B&center=true&width=600&lines=%F0%9F%9A%80+Building+cloud+infrastructure+solutions;%F0%9F%92%A1+DevOps+%7C+Kubernetes+%7C+Automation;%F0%9F%93%8A+Diving+into+Kubernetes+and+LLMs;%E2%98%95+Fuelled+by+chai+and+clean+code" alt="Typing SVG" />
-  </a>
+  <pre>
+__      __                   _  __                          
+\ \    / /                  | |/ /                          
+ \ \  / /__  ___ _ __ __ _  | ' /_   _ _ __ ___   __ _ _ __ 
+  \ \/ / _ \/ _ \ '__/ _` | |  <| | | | '_ ` _ \ / _` | '__|
+   \  /  __/  __/ | | (_| | | . \ |_| | | | | | | (_| | |   
+    \/ \___|\___|_|  \__,_| |_|\_\__,_|_| |_| |_|\__,_|_|   
+  </pre>
 </p>
 
 ---
