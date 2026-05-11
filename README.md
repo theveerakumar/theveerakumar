@@ -17,6 +17,14 @@ __      __                   _  __
   </pre>
 </p>
 
+<br />
+
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=F59E0B&center=true&width=600&lines=%24+whoami+%E2%86%92+Cloud+Support+Engineer;%24+whoami+%E2%86%92+Network+Engineer;%24+whoami+%E2%86%92+IT+Consultant;%24+whoami+%E2%86%92+Cloud+Enthusiast;%24+whoami+%E2%86%92+Traveller">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=F59E0B&center=true&width=600&lines=%24+whoami+%E2%86%92+Cloud+Support+Engineer;%24+whoami+%E2%86%92+Network+Engineer;%24+whoami+%E2%86%92+IT+Consultant;%24+whoami+%E2%86%92+Cloud+Enthusiast;%24+whoami+%E2%86%92+Traveller" alt="whoami" />
+  </a>
+</p>
+
 ---
 
 ### About
