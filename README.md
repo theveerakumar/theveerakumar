@@ -3,13 +3,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A0E17,100:F59E0B&text=Veera%20Kumar&desc=DevOps%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Open%20Source&fontColor=ffffff&descAlignY=65&descSize=14" />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0A0E17,100:F59E0B&text=Veera%20Kumar&desc=DevOps%20%E2%80%A2%20Cloud%20Infrastructure%20%E2%80%A2%20Open%20Source&fontColor=ffffff&descAlignY=65&descSize=14" />
 </picture>
+<pre align="center">
+$ echo "Hey! Folks"
 
-<p align="center" style="margin: 0; padding: 0; font-family: 'Courier New', monospace; white-space: pre; line-height: 1.2; color: #F59E0B; font-size: 14px;">
-+-+-+-+-+-+ +-+-+-+-+-+
-|V|e|e|r|a| |K|u|m|a|r|
-+-+-+-+-+-+ +-+-+-+-+-+
-</p>
-
+I'm Veera Kumar.
+</pre>
 ---
 
 ### About
