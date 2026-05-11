@@ -70,21 +70,12 @@ I architect cloud infrastructure and build tools that make complex systems simpl
 ### Projects
 
 <p align="center">
-  <a href="https://github.com/theveerakumar/stockvedic">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theveerakumar&repo=stockvedic&theme=dark&hide_border=true&bg_color=0A0E17" width="49%" />
-  </a>
-  <a href="https://github.com/theveerakumar/stockalysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theveerakumar&repo=stockalysis&theme=dark&hide_border=true&bg_color=0A0E17" width="49%" />
-  </a>
+  <a href="https://github.com/theveerakumar/stockvedic"><img src="https://img.shields.io/badge/stockvedic-NSE%20Analysis%20Tool-F59E0B?style=for-the-badge" /></a>
+  <a href="https://github.com/theveerakumar/stockalysis"><img src="https://img.shields.io/badge/stockalysis-Market%20Scanner-38BDF8?style=for-the-badge" /></a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/theveerakumar/veerakumar.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theveerakumar&repo=veerakumar.com&theme=dark&hide_border=true&bg_color=0A0E17" width="49%" />
-  </a>
-  <a href="https://github.com/theveerakumar/seaborn">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theveerakumar&repo=seaborn&theme=dark&hide_border=true&bg_color=0A0E17" width="49%" />
-  </a>
+  <a href="https://github.com/theveerakumar/veerakumar.com"><img src="https://img.shields.io/badge/veerakumar.com-Portfolio%20Site-2DD4BF?style=for-the-badge" /></a>
+  <a href="https://github.com/theveerakumar/seaborn"><img src="https://img.shields.io/badge/seaborn-Financial%20Tools-FF5D01?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -93,15 +84,8 @@ I architect cloud infrastructure and build tools that make complex systems simpl
 
 <p align="center">
   <a href="https://github.com/theveerakumar">
-    <img src="https://github-readme-stats.vercel.app/api?username=theveerakumar&show_icons=true&theme=dark&hide_border=true&bg_color=0A0E17&title_color=F59E0B&icon_color=F59E0B&text_color=ffffff" height="160" />
-  </a>
-  <a href="https://github.com/theveerakumar">
     <img src="https://streak-stats.demolab.com/?user=theveerakumar&theme=dark&hide_border=true&background=0A0E17&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" height="160" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theveerakumar&layout=compact&theme=dark&hide_border=true&bg_color=0A0E17&title_color=F59E0B&text_color=ffffff" height="120" />
 </p>
 
 <br />
