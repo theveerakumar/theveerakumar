@@ -21,7 +21,7 @@ __      __                   _  __
 
 ### About
 
-I architect cloud infrastructure and build tools that make complex systems simple. At **DigitalOcean**, I solve production problems at scale — from debugging kernel panics to optimizing CI/CD pipelines. Outside work, I virtualize almost every operating system that exists (from RHEL to Plan 9), and I'm currently diving deep into **Kubernetes internals** and the **world of LLMs**. I believe great infrastructure is invisible: it just works, stays out of the way, and lets developers ship.
+I debug, optimize, and support cloud infrastructure at scale. At **DigitalOcean**, I troubleshoot production issues ranging from kernel panics and network drops to CI/CD failures and container orchestration edge cases — helping customers keep their workloads running. Outside work, I virtualize almost every OS that exists (from RHEL to Plan 9), and I'm currently deep-diving into **Kubernetes internals** and **LLMs**. My approach: understand the stack from metal to application, so nothing is a black box.
 
 ---
 
