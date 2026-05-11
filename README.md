@@ -20,8 +20,9 @@ __      __                   _  __
 <br />
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=F59E0B&center=true&width=600&lines=%24+whoami+%E2%86%92+Cloud+Support+Engineer;%24+whoami+%E2%86%92+Network+Engineer;%24+whoami+%E2%86%92+IT+Consultant;%24+whoami+%E2%86%92+Cloud+Enthusiast;%24+whoami+%E2%86%92+Traveller">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=F59E0B&center=true&width=600&lines=%24+whoami+%E2%86%92+Cloud+Support+Engineer;%24+whoami+%E2%86%92+Network+Engineer;%24+whoami+%E2%86%92+IT+Consultant;%24+whoami+%E2%86%92+Cloud+Enthusiast;%24+whoami+%E2%86%92+Traveller" alt="whoami" />
+  <span style="font-family: 'Fira Code', monospace; font-weight: 500; font-size: 18px; color: #F59E0B;">$ whoami →</span>
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=F59E0B&center=true&width=400&lines=%5B+Cloud+Support+Engineer+%5D;%5B+Network+Engineer+%5D;%5B+IT+Consultant+%5D;%5B+Cloud+Enthusiast+%5D;%5B+Traveller+%5D">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=F59E0B&center=true&width=400&lines=%5B+Cloud+Support+Engineer+%5D;%5B+Network+Engineer+%5D;%5B+IT+Consultant+%5D;%5B+Cloud+Enthusiast+%5D;%5B+Traveller+%5D" alt="role" />
   </a>
 </p>
 
