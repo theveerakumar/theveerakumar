@@ -12,7 +12,7 @@ I'm Veera Kumar.
 
 ### About
 
-I debug, optimize, and support cloud infrastructure at scale. At **DigitalOcean**, I troubleshoot platform issues ranging from kernel panics and network drops to CI/CD failures and container orchestration edge cases — helping customers keep their workloads running. Outside work, I virtualize almost every OS that exists (from RHEL to Android and firewalls), and I'm currently deep-diving into **Kubernetes internals** and **LLMs**. My approach: understand the stack from metal to application, so nothing is a black box.
+I debug, optimize, and support cloud infrastructure at scale. At **DigitalOcean**, I troubleshoot platform issues ranging from kernel panics and network drops to  container orchestration edge cases — helping customers keep their workloads running. Outside work, I virtualize almost every OS that exists (from RHEL to Android and firewalls), and I'm currently deep-diving into **Kubernetes internals** and **LLMs**. My approach: understand the stack from metal to application, so nothing is a black box.
 
 ---
 
